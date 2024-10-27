@@ -12,7 +12,7 @@
     "bin": "pingo.exe",
     "checkver": {
         "url": "https://css-ig.net/pingo",
-        "regex": "Pingo v([\\d.]+)"
+        "regex": "v([\\d.]+)"
     },
     "autoupdate": {
         "architecture": {
